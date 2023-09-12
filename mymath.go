@@ -1,4 +1,4 @@
-package github.com/psatin42/mymath
+package mymath
 
 import "math"
 
